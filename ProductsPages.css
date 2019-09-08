@@ -1,0 +1,27 @@
+/* ProductsPages.css : CSS file for displaying products in application. */
+
+html
+{
+	background-color: #99FF99;
+}
+
+#banner
+{
+	position:         relative;
+	left:             300px;
+	top:              2px;
+}
+
+table
+{
+	position:         relative;
+	left:             40px;
+	top:              90px;
+	border:         2px solid black;
+}
+
+.table_line
+{
+	border-bottom:  1px solid #000;
+}
+

@@ -1,0 +1,28 @@
+/* UserHomepage.css : CSS file for user welcome homepage. */
+
+h5
+{
+	position:      relative;
+	right:            1080px;
+	top:		     -120px;
+}
+
+#funds
+{
+	position:      relative;
+	right:            1080px;
+	top:		     -130px;
+}
+
+#balance
+{
+	position:      relative;
+	left:               0px;
+	top:		        0px;
+	font-size:         125%;
+}
+
+#AccountOptions
+{
+	background-color:  #CCFF99;
+}

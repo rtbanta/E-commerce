@@ -1,0 +1,60 @@
+/* Navbar.css : CSS file for navigation dropdown menu of application. */
+
+#navMenu
+{
+	height:		1px;
+	margin:		0px;
+	padding:	0px;
+	position:	relative;
+	left:		320px;
+	top:		10px;
+}
+
+#navMenu li
+{
+	float:		left;
+	list-style:	none;
+}
+
+#navMenu .topLevel
+{
+	background-color: #BBBB00;
+}
+
+#navMenu li a
+{
+	padding:	   5px 25px;
+	display:	     block;
+	text-decoration:  none;
+}
+
+#navMenu li ul
+{
+	width:		150px;
+	display:	none;
+	z-index:	   70;
+}
+
+#navMenu li:hover ul
+{
+	margin:		0px;
+	padding:	0px;
+	display:	block;
+	position:	absolute;
+	background-color: #CC99CC;
+}
+
+#navMenu li:hover li
+{
+	float:		none;
+}
+
+#navMenu li:hover li a
+{
+	color:	#000000;	
+}
+
+#navMenu li li a:hover
+{
+	background-color:	#8db3ff;
+}

@@ -1,0 +1,186 @@
+/* RegisterForm.css : CSS file for registration form. */
+
+#RegisterForm
+{
+	position:		relative;
+	left:			100px;
+	top:			60px;
+	background-color: #FFFFCC;
+	width:			1100px;
+	height:			430px;
+}
+
+#firstName
+{
+	position:	relative;
+	left:		  -180px;
+	top:		    40px;
+}
+
+#firstLabel
+{
+	position:	relative;
+	left:		   80px;
+	top:		   -20px;
+}
+
+#lastName
+{
+	position:	relative;
+	left:		   400px;
+	top:		    0px;
+}
+
+#lastLabel
+{
+	position:	relative;
+	left:		   80px;
+	top:		   -20px;
+}
+
+#userName
+{
+	position:	relative;
+	left:			750px;
+	top:		    -40px;
+}
+
+#userLabel
+{
+	position:	relative;
+	left:		  80px;
+	top:		  -20px;
+}
+
+#password
+{
+	position:	relative;
+	left:		   380px;
+	top:		    0px;
+}
+
+#passwordLabel
+{
+	position:	relative;
+	left:			450px;
+	top:		   -21px;
+}
+
+#confirmPassword
+{
+	position:	relative;
+	left:			700px;
+	top:		    40px;
+}
+
+#confirmLabel
+{
+	position:	relative;
+	left:		   128px;
+	top:		   -20px;
+}
+
+#street
+{
+	position:	relative;
+	left:		   67px;
+	top:		   -40px;
+}
+
+#streetLabel
+{
+	position:	relative;
+	left:		   115px;
+	top:		   -60px;
+}
+
+#city
+{
+	position:	relative;
+	left:		   220px;
+	top:		   -60px;
+}
+
+#cityLabel
+{
+	position:	relative;
+	left:		  255px;
+	top:		   -80px;
+}
+
+#country
+{
+	position:	relative;
+	left:		   60px;
+	top:		   -40px;
+}
+
+#countryLabel
+{
+	position:	relative;
+	left:		  120px;
+	top:		  -60px;
+}
+
+select
+{
+	position:	relative;
+	left:		   450px;
+	top:		   -120px;
+}
+
+#stateLabel
+{
+	position:	relative;
+	left:		  490px;
+	top:		 -140px;
+}
+
+#zip
+{
+	position:	relative;
+	left:		   75px;
+	top:		   -40px;
+}
+
+#zipLabel
+{
+	position:	relative;
+	left:		   105px;
+	top:		   -60px;
+}
+
+#phone
+{
+	position:	relative;
+	left:		   215px;
+	top:		   -60px;
+}
+
+#phoneLabel
+{
+	position:	relative;
+	left:		   263px;
+	top:		   -80px;
+}
+
+#email
+{
+	position:	relative;
+	left:		  388px;
+	top:		   -80px;
+}
+
+#emailLabel
+{
+	position:	relative;
+	left:		  440px;
+	top:		   -100px;
+}
+
+#submitButton
+{
+	position:	relative;
+	left:		  490px;
+	top:		   -100px;
+}

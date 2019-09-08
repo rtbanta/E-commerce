@@ -1,0 +1,28 @@
+/* Homepage.css : CSS file for default homepage of application. */
+
+html
+{
+	background-color: #99FF99;
+	overflow-x:		hidden;
+}
+
+#banner
+{
+	position:         relative;
+	left:             300px;
+	top:              2px;
+}
+
+#shelf
+{
+	position:         relative;
+	left:              500px;
+	top:			  60px;
+}
+
+#loginLink
+{
+	position:         relative;
+	left:            850px;
+	top:			  -70px;
+}
