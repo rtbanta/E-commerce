@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Products.xml : holds information on products for application. -->
+
+<Products>
+	<Product id="100">
+		<name>Insignia - 39" Class - LCD - 1080p - 60Hz - HDTV</name>
+		<image>IMG/tv.jpg</image>
+		<type>livingRoom</type>
+		<quantity>5</quantity>
+		<price>280.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="102">
+		<name>Entertainment Center</name>
+		<image>IMG/ent_center.jpg</image>
+		<type>livingRoom</type>
+		<quantity>3</quantity>
+		<price>320.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="105">
+		<name>Collins Sofa</name>
+		<image>IMG/couch.jpg</image>
+		<type>livingRoom</type>
+		<quantity>4</quantity>
+		<price>849.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="109">
+		<name>Collins Chair</name>
+		<image>IMG/chair.jpg</image>
+		<type>livingRoom</type>
+		<quantity>8</quantity>
+		<price>150.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="111">
+		<name>Lamp</name>
+		<image>IMG/lamp.jpg</image>
+		<type>livingRoom</type>
+		<quantity>20</quantity>
+		<price>50.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="200">
+		<name>Coffee Maker</name>
+		<image>IMG/coffee_maker.jpg</image>
+		<type>kitchen</type>
+		<quantity>5</quantity>
+		<price>75.50</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="212">
+		<name>Cutting Board</name>
+		<image>IMG/cutting_board.jpg</image>
+		<type>kitchen</type>
+		<quantity>9</quantity>
+		<price>29.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="215">
+		<name>Knive Holder</name>
+		<image>IMG/knive_holder.jpg</image>
+		<type>kitchen</type>
+		<quantity>15</quantity>
+		<price>25.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="220">
+		<name>Magnet Clips</name>
+		<image>IMG/magnet_clips.jpg</image>
+		<type>kitchen</type>
+		<quantity>25</quantity>
+		<price>10.00</price>
+		<userid>10</userid>
+	</Product>
+	<Product id="301">
+		<name>Dresser</name>
+		<image>IMG/dresser.jpg</image>
+		<type>bedRoom</type>
+		<quantity>10</quantity>
+		<price>150.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="314">
+		<name>Queen Bed</name>
+		<image>IMG/queen_bed.jpg</image>
+		<type>bedRoom</type>
+		<quantity>10</quantity>
+		<price>200.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="315">
+		<name>King Bed</name>
+		<image>IMG/king_bed.jpg</image>
+		<type>bedRoom</type>
+		<quantity>10</quantity>
+		<price>300.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="320">
+		<name>Blanket</name>
+		<image>IMG/blanket.jpg</image>
+		<type>bedRoom</type>
+		<quantity>20</quantity>
+		<price>40.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="340">
+		<name>Night Stand</name>
+		<image>IMG/night_stand.jpg</image>
+		<type>bedRoom</type>
+		<quantity>20</quantity>
+		<price>100.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="402">
+		<name>Towel Rack</name>
+		<image>IMG/towel_rack.jpg</image>
+		<type>bathRoom</type>
+		<quantity>10</quantity>
+		<price>50.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="414">
+		<name>Magazine Rack</name>
+		<image>IMG/magazine_rack.jpg</image>
+		<type>bathRoom</type>
+		<quantity>10</quantity>
+		<price>50.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="419">
+		<name>Shampoo Rack</name>
+		<image>IMG/shampoo_rack.jpg</image>
+		<type>bathRoom</type>
+		<quantity>10</quantity>
+		<price>40.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="425">
+		<name>Mirror</name>
+		<image>IMG/mirror.jpg</image>
+		<type>bathRoom</type>
+		<quantity>10</quantity>
+		<price>70.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="432">
+		<name>Hamper</name>
+		<image>IMG/hamper.jpg</image>
+		<type>bathRoom</type>
+		<quantity>20</quantity>
+		<price>100.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="504">
+		<name>Hose Holder</name>
+		<image>IMG/hose_holder.jpg</image>
+		<type>recreational</type>
+		<quantity>10</quantity>
+		<price>50.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="517">
+		<name>Boat</name>
+		<image>IMG/boat.jpg</image>
+		<type>recreational</type>
+		<quantity>5</quantity>
+		<price>900.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="519">
+		<name>Small Pool</name>
+		<image>IMG/small_pool.jpg</image>
+		<type>recreational</type>
+		<quantity>10</quantity>
+		<price>120.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="529">
+		<name>Soccer Goal and Ball</name>
+		<image>IMG/soccer.jpg</image>
+		<type>recreational</type>
+		<quantity>10</quantity>
+		<price>140.00</price>
+		<userid>-1</userid>
+	</Product>
+	<Product id="534">
+		<name>Camping Tent</name>
+		<image>IMG/camping_tent.jpg</image>
+		<type>recreational</type>
+		<quantity>20</quantity>
+		<price>300.00</price>
+		<userid>-1</userid>
+	</Product>
+</Products>

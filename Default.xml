@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Default.xml : displays error message based on encountered error. -->
+
+<root>
+	<notLoggedInError>You are not logged in. Please login or register.</notLoggedInError>
+	<invalidCredentials>Invalid username or password.</invalidCredentials>
+	<doubleLoginError>You are already logged in.</doubleLoginError>
+</root>

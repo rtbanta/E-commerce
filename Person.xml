@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Person.xml : holds information on users for application. -->
+
+<Persons>
+  <Person id="1">
+    <userName>rbanta</userName>
+    <password>blah</password>
+    <firstName>Robert</firstName>
+    <lastName>Banta</lastName>
+    <street>6 Gardenia rd.</street>
+    <city>Glenwood</city>
+    <country>US</country>
+    <state>NJ</state>
+    <zip>07418</zip>
+    <phone>973-764-6616</phone>
+    <email>rtbanta@warwick.net</email>
+    <balance>0</balance>
+  </Person>
+  <Person id="2">
+    <userName>jdoe</userName>
+    <password>blah2</password>
+    <firstName>John</firstName>
+    <lastName>Doe</lastName>
+    <street>1 Some Place rd.</street>
+    <city>Somewhere</city>
+    <country>US</country>
+    <state>NY</state>
+    <zip>07462</zip>
+    <phone>973-724-1663</phone>
+    <email>johndoe@warwick.net</email>
+    <balance>0</balance>
+  </Person>
+  <Person id="10">
+    <userName>smith</userName>
+    <password>this</password>
+    <firstName>steve</firstName>
+    <lastName>smith</lastName>
+    <street>4 this street</street>
+    <city>cedar grove</city>
+    <country>america</country>
+    <state>NJ</state>
+    <zip>88888</zip>
+    <phone>973-764-5555</phone>
+    <email>rbanta@ramapo.edu</email>
+    <balance>0</balance>
+  </Person>
+  <Person id="11">
+    <userName>jsome</userName>
+    <password>this</password>
+    <firstName>john</firstName>
+    <lastName>someeone</lastName>
+    <street>7 that road</street>
+    <city>franklin</city>
+    <country>usa</country>
+    <state>NJ</state>
+    <zip>55555</zip>
+    <phone>973-764-1234</phone>
+    <email>rbanta@ramapo.edu</email>
+    <balance>0</balance>
+  </Person>
+  <Person id="12">
+    <userName>jjones</userName>
+    <password>a</password>
+    <firstName>john</firstName>
+    <lastName>jones</lastName>
+    <street>5 right here</street>
+    <city>mexico city</city>
+    <country>mexico</country>
+    <state>none</state>
+    <zip>12345</zip>
+    <phone>973-777-9999</phone>
+    <email>jjones@here.net</email>
+    <balance>0.0</balance>
+  </Person>
+</Persons>
+
